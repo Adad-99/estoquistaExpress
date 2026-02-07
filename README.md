@@ -68,7 +68,7 @@ python main.py
 Automação aumoxarifado/
 ├── interface/          # Módulos da interface gráfica
 ├── service/           # Lógica de negócio e serviços
-├── resources/         # Recursos (estilos, ícones, etc.)
+├── resources/         # Recursos (estilos, ícones, Planilha Padrao.)
 ├── main.py           # Ponto de entrada da aplicação
 ├── utils.py          # Funções utilitárias
 ├── requirements.txt  # Dependências do projeto
@@ -87,13 +87,9 @@ Automação aumoxarifado/
 
 O projeto inclui configuração para geração de instalador Windows usando Inno Setup (`setup.iss`).
 
-## 📝 Licença
-
-[Especifique a licença do projeto]
-
 ## 👤 Autor
 
-[Seu nome/organização]
+Guilherme Adad
 
 ## 🤝 Contribuindo
 
@@ -101,5 +97,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 📧 Contato
 
-[Suas informações de contato]
+Email: guilherme.adad99@gmail.com
+
 # estoquistaExpress
