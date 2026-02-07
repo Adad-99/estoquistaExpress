@@ -1,0 +1,8 @@
+"""
+Módulo de interface gráfica do sistema de Pedido.
+"""
+
+from .main_window import MainWindow
+from .settings_dialog import SettingsDialog
+
+__all__ = ['MainWindow', 'SettingsDialog']
